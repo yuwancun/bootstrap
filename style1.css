@@ -14,10 +14,42 @@
 }
 .adv {
     position: absolute;
-    padding-top: 0;
+    margin: 5px;
     float: left;
+    background: orange;
+    color: snow;
 }
 .new{
+    margin: 5px;
     float: right;
-    float: right;
+    background: red;
+    color: snow;
+}
+.box-shadow{
+    width: 238px;
+    height: 100px;
+    color: red;
+    position: absolute;
+    bottom: -30px;
+}
+.eye {
+    margin: 5px;
+    padding-left: 10px;
+    float: left;
+    color: snow;
+}
+.eye-num {
+    padding-left: 40px;
+    font-size: 14px;
+    color: yellow;
+}
+.box-title{
+    width: 238px;
+    height: 100px;
+    position: absolute;
+    bottom: -100px;
+}
+.episode{
+display: inline;
+    
 }
